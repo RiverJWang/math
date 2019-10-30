@@ -203,7 +203,7 @@ $$
     f(x_0)+f'(x_0)(x-x_0)+ \dotsb + \dfrac{1}{n!}f^{(n)}(x_0)(x-x_0)^n + \dotsb \\
     = \sum\limits_{n=0}^{\infty} \dfrac{1}{n!}f^{(n)}(x_0)(x-x_0)^n,
     $$
-    此幂级数（3）叫做函数 $f(x)$ 在点 $x_0$ 处的$\color{red}泰勒级数$。
+    此幂级数（3）叫做函数 $f(x)$ 在点 $x_0$ 处的$\color{red}{泰勒级数}$。
 
     而展开式必为
     
