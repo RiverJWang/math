@@ -6,7 +6,7 @@ My study notes for math
 #### Navigation
 
 1. Caculas
-    - [series]()
+    - [series](https://gitee.com/iwzw/mathnote/blob/master/Calculus/series.md)
 
 
 #### 软件架构
