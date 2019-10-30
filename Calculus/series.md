@@ -140,9 +140,9 @@ $$
 $$
  R =
   \begin{cases}
-    1/\rho    & \quad \rho \ne 0,\\[2ex]  
-    +\infty   & \quad \rho = 0,\\[2ex]  
-    0    & \quad \rho = +\infty.
+    1/\rho    & \quad \rho \ne 0,  \\  
+    +\infty   & \quad \rho = 0,  \\  
+    0    & \quad \rho = +\infty. \\  
   \end{cases}
 $$
 
@@ -163,7 +163,7 @@ $$
 
     $$
     \tag{5}
-    \int_0^x s(x)\,\mathrm{d}x = \int_0^x\left[\sum_{n=0}^{\infty}a_nx^n\right]\mathrm{d}x=\sum_{n=0}^{\infty} \int_0^x a_nx^n \mathrm{d}x \\[2ex]
+    \int_0^x s(x)\,\mathrm{d}x = \int_0^x\left[\sum_{n=0}^{\infty}a_nx^n\right]\mathrm{d}x=\sum_{n=0}^{\infty} \int_0^x a_nx^n \mathrm{d}x  \\
     =\sum_{n=0}^{\infty} \dfrac{a_n}{n+1}x^{n+1} \quad (x \in I),
     $$
     逐项积分后所得到的幂级数和原级数有相同的收敛半径。
@@ -200,7 +200,7 @@ $$
 
     $$
     \tag{3}
-    f(x_0)+f'(x_0)(x-x_0)+ \dotsb + \dfrac{1}{n!}f^{(n)}(x_0)(x-x_0)^n + \dotsb \\[2ex]
+    f(x_0)+f'(x_0)(x-x_0)+ \dotsb + \dfrac{1}{n!}f^{(n)}(x_0)(x-x_0)^n + \dotsb \\
     = \sum\limits_{n=0}^{\infty} \dfrac{1}{n!}f^{(n)}(x_0)(x-x_0)^n,
     $$
     此幂级数（3）叫做函数 $f(x)$ 在点 $x_0$ 处的$\color{red}{泰勒级数}$。
