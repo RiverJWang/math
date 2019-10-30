@@ -146,6 +146,22 @@ $$
   \end{cases}
 $$
 
+$x = \begin{cases}a &\text{if } b \\ c &\text{if } d \end{cases}$
+
+$$
+x = \begin{cases}
+   a &\text{if } b \\
+   c &\text{if } d
+\end{cases}
+$$
+
+$$
+\begin{vmatrix}
+   a & b \\
+   c & d
+\end{vmatrix}
+$$
+
 ### 三、幂函数的运算
 设幂函数 
 
