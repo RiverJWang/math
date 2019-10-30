@@ -3,6 +3,12 @@
 #### 介绍
 My study notes for math
 
+#### Navigation
+
+1. Caculas
+    - [series]()
+
+
 #### 软件架构
 软件架构说明
 
